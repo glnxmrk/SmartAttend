@@ -1,0 +1,7 @@
+{
+  "name": "SmartAttend",
+  "description": "A comprehensive QR-based attendance management system with parent notifications and AI-powered reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
